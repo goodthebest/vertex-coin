@@ -3,7 +3,7 @@ Vertexcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/vertexcoin-project/vertexcoin.svg?branch=master)](https://travis-ci.org/vertexcoin-project/vertexcoin)
 
-https://vertexcoin.org
+https://vertexcoin.net
 
 What is Vertexcoin?
 ----------------

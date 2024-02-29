@@ -15,7 +15,7 @@ out collectively by the network. Vertexcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Vertexcoin Core software, see [https://vertexcoin.org](https://vertexcoin.org).
+the Vertexcoin Core software, see [https://vertexcoin.org](https://vertexcoin.net).
 
 License
 -------

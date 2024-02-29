@@ -3,7 +3,7 @@ Vertexcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/vertexcoin-project/vertexcoin.svg?branch=master)](https://travis-ci.org/vertexcoin-project/vertexcoin)
 
-https://vertexcoin.org
+https://vertexcoin.net
 
 What is Vertexcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Vertexcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Vertexcoin Core software, see [https://vertexcoin.org](https://vertexcoin.org).
+the Vertexcoin Core software, see [https://vertexcoin.org](https://vertexcoin.net).
 
 License
 -------
